@@ -1,0 +1,27 @@
+{
+  "n_files": 65217,
+  "n_kept": 2086,
+  "duration_hours": 17.67530138888889,
+  "band_hz": [
+    2000000000.0,
+    8000000000.0
+  ],
+  "per_port": {
+    "1": {
+      "asymptote_cv": 0.00111184614930499,
+      "settle_time_hr": 0.0
+    },
+    "2": {
+      "asymptote_cv": 0.0011215204384390077,
+      "settle_time_hr": 0.0
+    },
+    "3": {
+      "asymptote_cv": 0.003443503720151261,
+      "settle_time_hr": 0.0
+    },
+    "4": {
+      "asymptote_cv": 0.0010339432144122161,
+      "settle_time_hr": 0.0
+    }
+  }
+}

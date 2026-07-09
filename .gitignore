@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Raw measurement data (large; hosted separately per DATA_MANIFEST.md)
+data/
+*.csv
+
+# Working files that shouldn't be committed
+logs/
+scratch/
+*.log
